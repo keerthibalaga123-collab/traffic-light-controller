@@ -31,3 +31,27 @@ This project implements a Traffic Light Controller using a Finite State Machine 
 - Smart Cities
 - Road Traffic Control
 - FPGA-Based Embedded Systems
+## Project Structure
+
+```
+traffic-light-controller/
+│
+├── verilog/
+│   ├── traffic_light_controller.v
+│   └── traffic_light_controller_tb.v
+│
+├── documentation/
+│   └── state_diagram.md
+│
+├── images/
+│
+└── README.md
+```
+
+## Repository Status
+
+- ✅ Verilog Design
+- ✅ Testbench
+- ⏳ Vivado Simulation
+- ⏳ Waveform Images
+- ⏳ Circuit Diagram
